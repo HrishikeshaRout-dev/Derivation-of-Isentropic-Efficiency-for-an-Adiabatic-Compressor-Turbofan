@@ -1,0 +1,1 @@
+# Derivation-of-Isentropic-Efficiency-for-an-Adiabatic-Compressor-Turbofan
